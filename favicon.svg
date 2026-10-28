@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <!-- Ícono de viento (mismo trazo que el logo de la app), centrado en 24×24 -> 64×64 -->
+  <g transform="translate(8 8) scale(2)" fill="none" stroke="#ffffff" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12.8 19.6A2 2 0 1 0 14 16H2"/>
+    <path d="M17.5 8a2.5 2.5 0 1 1 2 4H2"/>
+    <path d="M9.8 4.4A2 2 0 1 1 11 8H2"/>
+  </g>
+</svg>
